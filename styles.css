@@ -3,28 +3,28 @@ body {
     margin: 0;
     padding: 0;
     background-color: black; /* Set the background to black */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #333; /* Background color for the container */
+    padding: 20px; /* Add some padding inside the container */
+    border-radius: 20px; /* Rounded corners */
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Add a subtle shadow */
 }
 
 h1 {
     margin: 0;
     color: white;
-    text-align: center;
-    margin-top: 38vh;
-}
-
-.all {
-    background-color: #333; /* Set the background for elements with the "all" class */
-    text-align: center;
-    margin: 20px auto; /* Center vertically and horizontally */
-    color: white;
-    border-radius: 10px; /* Add rounded corners */
-    padding: 20px; /* Add some padding for better visual appearance */
 }
 
 h2 {
     font-size: 1.5rem;
     color: white;
-    margin: auto; /* Center vertically and horizontally */
 }
 
 #visit-count {
