@@ -14,15 +14,14 @@ h1 {
 
 .tracking-info {
     text-align: center;
-    margin: 20px;
+    margin: 20px auto; /* Center vertically and horizontally */
     color: white;
-    margin-top: 42vh;
 }
 
 h2 {
     font-size: 1.5rem;
     color: white;
-    margin-top: 40vh
+    margin: auto; /* Center vertically and horizontally */
 }
 
 #visit-count {
@@ -30,5 +29,4 @@ h2 {
     font-weight: bold;
     text-decoration: underline;
     color: white;
-    margin-top: 44vh
 }
