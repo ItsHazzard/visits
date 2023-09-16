@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: black; /* Set background color to black */
+    background-color: black; /* Set the background to black */
 }
 
 h1 {
@@ -12,13 +12,13 @@ h1 {
     margin-top: 38vh;
 }
 
-.tracking-info {
+.all {
+    background-color: #333; /* Set the background for elements with the "all" class */
     text-align: center;
     margin: 20px auto; /* Center vertically and horizontally */
     color: white;
-    background-color: #333; /* Set background color to #333 */
     border-radius: 10px; /* Add rounded corners */
-    padding: 20px; /* Add padding to the curved background */
+    padding: 20px; /* Add some padding for better visual appearance */
 }
 
 h2 {
