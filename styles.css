@@ -9,17 +9,20 @@ h1 {
     margin: 0;
     color: white;
     text-align: center;
+    margin-top: 40vh;
 }
 
 .tracking-info {
     text-align: center;
     margin: 20px;
+    color: white;
+    margin-top: 50vh;
 }
 
 h2 {
     font-size: 1.5rem;
     color: white;
-    text-align: center;
+    margin-top: 45vh
 }
 
 #visit-count {
@@ -27,5 +30,5 @@ h2 {
     font-weight: bold;
     text-decoration: underline;
     color: white;
-    text-align: center;
+    margin-top: 50vh
 }
